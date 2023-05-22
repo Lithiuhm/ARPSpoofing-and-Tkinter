@@ -53,13 +53,13 @@ Ahora se te abrirá una pestaña así
 
 <img src="/images/img1.png"/>
 
-Primero descubriremos la red y para saber en que red estamos abrimos una consola y escribimos
+Primero descubriremos la red para saber en que red estamos, para saberlo abrimos una consola y escribimos
 
 ```bash
 ipconfig
 ```
 
-Aquí obtenemos toda la información importante, la red, máscara y puerta de enlace, en mi caso son:
+Aquí obtenemos toda la información importante la red, máscara y puerta de enlace, en mi caso son:
 
 - IP:                 10.0.2.15
 - Máscara:            255.255.255.0
