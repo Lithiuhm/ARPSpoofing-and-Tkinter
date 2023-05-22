@@ -24,7 +24,7 @@ https://docs.python.org/es/3.8/library/venv.html
 Lo primero es descargar el repositorio, lo puedes hacer descargandolo como .zip en esta misma página aqrriba a la derecha o clonando el repositorio en tu pc
 
 ```bash
-gh clone https://github.com/Lithiuhm/ARPSpoofing-and-Tkinter.git
+git clone https://github.com/Lithiuhm/ARPSpoofing-and-Tkinter.git
 ```
 
 Dicho esto, lo primero es instalar las dependencias necesarias para ejecutar el programa, ejecutamos el siguiente comando en una consola
