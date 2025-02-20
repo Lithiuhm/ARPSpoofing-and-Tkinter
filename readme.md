@@ -62,7 +62,7 @@ Además, para poder enviar y recibir paquetes, debemos tener instalado **Npcap**
 Ahora solo queda ejecutarlo:
 
 ```bash
-python3 arpspoofertk.py
+python3 arpspoofer.py
 ```
 
 ---
